@@ -3,9 +3,7 @@
 one:
   content: MyText
   rating: 1
-  restaurant: one
 
 two:
   content: MyText
   rating: 1
-  restaurant: two
